@@ -1,0 +1,38 @@
+// Ficheros que no quiero que se suban a GIT
+
+.vscode
+
+# Archivos generados automáticamente
+*.exe
+*.out
+*.class
+*.pyc
+
+# Archivos de configuración local
+.env
+.idea/
+
+# Archivos sensibles o privados
+*.key
+*.secret
+config.ini
+
+# Dependencias y módulos de terceros
+/packages/
+/vendor/
+/lib/
+
+# Carpeta de configuración de Visual Studio Code. Recomendado chatGPT en lugar de .vscode
+# /.vscode/
+
+
+
+// Ficheros específicos míos que no quiero subir
+
+ExtracciónDatosConSelenium.ipynb
+
+Ignorar/
+
+
+
+
